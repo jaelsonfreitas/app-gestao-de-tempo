@@ -14,6 +14,7 @@ main{
     display: flex;
     justify-content: space-around;
     padding: 20px;
+    background-color: #fffafa;
 }
 
 section {
@@ -39,4 +40,9 @@ button {
 
 li {
     margin: 10px 0;
+}
+
+#new-task {
+    width: 100%;
+    margin-top: 10px;
 }
