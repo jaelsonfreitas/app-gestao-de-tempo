@@ -8,6 +8,7 @@ header {
     background-color: #333;
     color: #fff;
     padding: 10px;
+    font-family: 'Tilt Neon', sans-serif;
 }
 
 main{
@@ -22,6 +23,14 @@ section {
     padding: 20px;
     margin: 10px;
     border-radius: 10px;
+    font-family: 'Tilt Neon', sans-serif;
+}
+#timer {
+    width: 20%;
+    text-align: center;
+}
+#tasks{
+    width: 70%;
 }
 
 button {
@@ -63,4 +72,10 @@ li {
     background-color: #9370DB;
     color: #fff;
     border-radius: 10px;
+}
+#add-task {
+    background-color: #228B22;
+    color: #fff;
+    border-radius: 10px;
+    font-family: 'Tilt Neon', sans-serif;
 }
