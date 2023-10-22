@@ -46,3 +46,21 @@ li {
     width: 100%;
     margin-top: 10px;
 }
+
+#start {
+    background-color: #228B22;
+    color: #fff;
+    border-radius: 10px;
+}
+
+#pause {
+    background-color: #FF6347;
+    color: #fff;
+    border-radius: 10px;
+}
+
+#reset {
+    background-color: #9370DB;
+    color: #fff;
+    border-radius: 10px;
+}
